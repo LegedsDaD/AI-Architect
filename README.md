@@ -1,5 +1,8 @@
 <img width="1024" height="1024" alt="ChatGPT Image Jan 4, 2026, 10_09_51 PM" src="https://github.com/user-attachments/assets/8f4eb656-0819-476f-8ab2-4bc6762dae7a" />
+
+
 ## ✨ Why AI Architect?
+
 Modern AI systems are only as powerful as their prompts.
 AI Architect transforms vague ideas into production-ready prompt blueprints — ideal for:
 
@@ -15,6 +18,69 @@ AI product teams
 
 This is not a prompt toy.
 This is a Prompt Engineering IDE.
+
+## Glance Tables
+> Feature overview table
+| Feature | Description | Status |
+|-------|------------|--------|
+| Persona-Driven Prompting | Generate prompts using professional AI personas | ✅ Stable |
+| CO-STAR Architecture | Context, Objective, Style, Tone, Audience, Response | ✅ Implemented |
+| Chain-of-Thought Control | Step-by-step reasoning enforcement | ✅ Optional |
+| Few-Shot Examples | Example-driven outputs | ✅ Optional |
+| Iterative Self-Correction | Output validation before final response | ✅ Optional |
+| Negative Constraints | Explicit exclusions to prevent hallucinations | ✅ Implemented |
+| XML-Structured Prompts | High-precision prompt boundaries | ✅ Implemented |
+| Offline Execution | No API, no internet dependency | ✅ Yes |
+
+> AI Personas table
+
+| Persona | Best Used For |
+|-------|--------------|
+| Software Engineer | System design, APIs, backend logic |
+| Python Expert | Optimization, clean code, libraries |
+| Senior Data Scientist | ML pipelines, statistics, research |
+| Product Manager | Roadmaps, PRDs, strategy |
+| CEO / Business Strategist | Decision-making, market analysis |
+| UX/UI Designer | User flows, usability, accessibility |
+| Cybersecurity Analyst | Threat modeling, secure systems |
+| Academic Researcher | Papers, citations, structured analysis |
+
+> Prompt Configuration Table
+
+| Parameter | Available Options |
+|--------|------------------|
+| Tone | Professional, Technical, Academic, Casual, Persuasive |
+| Complexity | ELI5, Standard, Advanced, Expert |
+| Output Format | Markdown, Bullets, Code, JSON, CSV, Tables |
+| Reasoning Model | Chain-of-Thought, Few-Shot, Iterative |
+
+> Reasoning and Loguc Engine table
+
+| Logic Model | Description | Benefit |
+|-----------|------------|---------|
+| Chain-of-Thought | Forces step-by-step reasoning | Reduces logical errors |
+| Few-Shot Examples | Demonstrates expected output | Improves alignment |
+| Iterative Review | Self-checks output quality | Minimizes hallucinations |
+
+> Comparison Table
+
+| Feature | AI Architect | Typical Prompt Tool |
+|------|-------------|---------------------|
+| Offline | ✅ Yes | ❌ No |
+| Prompt Structure | XML + CO-STAR | Free-text |
+| Reasoning Control | Advanced | Limited |
+| Persona Control | Yes | Partial |
+| Professional UI | Desktop-grade | Web forms |
+
+> Use Cases scenario Table.
+
+| User Type | Use Case |
+|---------|----------|
+| Developer | Generate deterministic coding prompts |
+| Researcher | Structured academic queries |
+| Startup Founder | Business analysis & planning |
+| Prompt Engineer | Prompt blueprint creation |
+| Educator | Clear instructional prompts |
 
 ## 🚀 Key Features
 Category	Capability
