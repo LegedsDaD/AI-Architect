@@ -1,27 +1,4 @@
 <img width="1024" height="1024" alt="ChatGPT Image Jan 4, 2026, 10_09_51 PM" src="https://github.com/user-attachments/assets/8f4eb656-0819-476f-8ab2-4bc6762dae7a" />
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)]()
-[![Platform](https://img.shields.io/badge/Platform-Desktop-lightgrey)]()
-[![UI](https://img.shields.io/badge/UI-Tkinter-green?logo=windows-terminal)]()
-[![License](https://img.shields.io/badge/License-MIT-purple)]()
-[![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-ff69b4)]()
-[![LLM Ready](https://img.shields.io/badge/LLM-Compatible-blueviolet)]()
-[![CO-STAR](https://img.shields.io/badge/Prompt%20Model-CO--STAR-orange)]()
-[![Chain of Thought](https://img.shields.io/badge/Reasoning-Chain%20of%20Thought-red)]()
-[![Code Style](https://img.shields.io/badge/Code%20Style-PEP8-brightgreen)]()
-[![Maintainability](https://img.shields.io/badge/Maintainable-Yes-success)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)]()
-[![Open Source](https://img.shields.io/badge/Open-Source-Informational)]()
-[![Status](https://img.shields.io/badge/Status-Active%20Development-orange)]()
-[![Offline](https://img.shields.io/badge/Offline-Yes-blue)]()
-[![No API](https://img.shields.io/badge/API-Free-success)]()
-[![No Telemetry](https://img.shields.io/badge/Telemetry-None-lightgrey)]()
-[![Security](https://img.shields.io/badge/Security-Local%20Only-critical)]()
-[![Privacy](https://img.shields.io/badge/Privacy-First-blue)]()
-[![No Data Collection](https://img.shields.io/badge/Data%20Collection-None-green)]()
-[![XML Structured](https://img.shields.io/badge/Output-XML%20Structured-yellow)]()
-[![Prompt Blueprint](https://img.shields.io/badge/Prompt-Blueprint-black)]()
-[![Professional Tool](https://img.shields.io/badge/Grade-Professional-blue)]()
-
 ## ✨ Why AI Architect?
 Modern AI systems are only as powerful as their prompts.
 AI Architect transforms vague ideas into production-ready prompt blueprints — ideal for:
