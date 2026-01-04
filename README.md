@@ -35,8 +35,8 @@ AI Architect transforms vague ideas into production-ready prompt blueprints — 
 
 This is a Prompt Engineering IDE.
 
-## Glance Tables
-### Feature overview table
+## 👀Glance Tables
+### 💭Feature overview table
 
 | Feature | Description | Status |
 |-------|------------|--------|
@@ -49,7 +49,7 @@ This is a Prompt Engineering IDE.
 | XML-Structured Prompts | High-precision prompt boundaries | ✅ Implemented |
 | Offline Execution | No API, no internet dependency | ✅ Yes |
 
-### AI Personas table
+### 🤖AI Personas table
 
 | Persona | Best Used For |
 |-------|--------------|
@@ -62,7 +62,7 @@ This is a Prompt Engineering IDE.
 | Cybersecurity Analyst | Threat modeling, secure systems |
 | Academic Researcher | Papers, citations, structured analysis |
 
-### Prompt Configuration Table
+### 💬Prompt Configuration Table
 
 | Parameter | Available Options |
 |--------|------------------|
@@ -71,7 +71,7 @@ This is a Prompt Engineering IDE.
 | Output Format | Markdown, Bullets, Code, JSON, CSV, Tables |
 | Reasoning Model | Chain-of-Thought, Few-Shot, Iterative |
 
-### Reasoning and Logic Engine table
+### 🤔Reasoning and Logic Engine table
 
 | Logic Model | Description | Benefit |
 |-----------|------------|---------|
@@ -79,7 +79,7 @@ This is a Prompt Engineering IDE.
 | Few-Shot Examples | Demonstrates expected output | Improves alignment |
 | Iterative Review | Self-checks output quality | Minimizes hallucinations |
 
-### Comparison Table
+### 👉Comparison Table
 
 | Feature | AI Architect | Typical Prompt Tool |
 |------|-------------|---------------------|
@@ -89,7 +89,7 @@ This is a Prompt Engineering IDE.
 | Persona Control | Yes | Partial |
 | Professional UI | Desktop-grade | Web forms |
 
-### Use Cases scenario Table.
+### 👨‍💻Use Cases scenario Table.
 
 | User Type | Use Case |
 |---------|----------|
@@ -100,7 +100,7 @@ This is a Prompt Engineering IDE.
 | Educator | Clear instructional prompts |
 
 ## 🚀 Key Features
-Category	Capability
+
 ### 🎭 Personas
 
 >Software Engineer
