@@ -16,20 +16,19 @@
 
 ## ✨ Why AI Architect?
 
-Modern AI systems are only as powerful as their prompts.
+Modern AI systems are only as powerful  as their prompts.
 AI Architect transforms vague ideas into production-ready prompt blueprints — ideal for:
 
-Developers
+>Developers
 
-Researchers
+>Researchers
 
-Startup founders
+>Startup founders
 
-Prompt engineers
+>Prompt engineers
 
-AI product teams
+>AI product teams
 
-This is not a prompt toy.
 This is a Prompt Engineering IDE.
 
 ## Glance Tables
@@ -68,7 +67,7 @@ This is a Prompt Engineering IDE.
 | Output Format | Markdown, Bullets, Code, JSON, CSV, Tables |
 | Reasoning Model | Chain-of-Thought, Few-Shot, Iterative |
 
-> Reasoning and Loguc Engine table
+> Reasoning and Logic Engine table
 
 | Logic Model | Description | Benefit |
 |-----------|------------|---------|
@@ -98,13 +97,42 @@ This is a Prompt Engineering IDE.
 
 ## 🚀 Key Features
 Category	Capability
-🎭 Personas	Software Engineer, Data Scientist, CEO, Legal Expert, UX Designer, Cybersecurity Analyst & more
-🧠 Reasoning Models	Chain-of-Thought, Few-Shot Examples, Iterative Self-Correction
-🎯 Precision Control	Tone, Complexity, Output Format
-📐 Structure	XML-tagged sections for LLM reliability
-🖥️ Interface	Modern Tkinter UI (Dark output console style)
-📋 Output	Copy-ready prompt blueprints
-⚙️ Offline	No API keys, no internet required
+> 🎭 Personas
+
+1.Software Engineer
+
+2.Data Scientist 
+
+3.CEO
+
+4.Legal Expert UX Designer
+
+5.Cybersecurity Analyst & more
+
+> 🧠 Reasoning Models
+1.Chain-of-Thought
+
+2.Few-Shot Examples
+
+3.Iterative Self-Correction
+
+> 🎯 Precision Controlt
+1.Tone
+
+2.Complexity
+
+3.Output Format
+
+>📐 Structure
+1.XML-tagged sections for LLM reliability
+
+>🖥️ Interface
+1.Modern Tkinter UI (Dark output console style)
+
+>📋 Output
+1.Copy-ready prompt blueprints
+
+2.⚙️ Offline ,No API keys, no internet required
 
 ## 🧩 Prompt Architecture (CO-STAR Inspired)
 SYSTEM IDENTITY
@@ -205,5 +233,6 @@ give it a ⭐ and share it with other developers.
 ## 👑 Author
 
 LegedsDaD
-Designed for people who don’t ask AI questions —
+
+#Designed for people who don’t ask AI questions —
 they architect intelligence.
