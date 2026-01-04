@@ -14,6 +14,10 @@
 ![Maintainability](https://img.shields.io/badge/Maintainable-Yes-success)
 ![Code Style](https://img.shields.io/badge/Code%20Style-PEP8-blue)
 
+@ Designed for people who don’t ask AI questions —
+they architect intelligence ,
+@LegendWorks ,
+@Stay Updated
 ## ✨ Why AI Architect?
 
 Modern AI systems are only as powerful  as their prompts.
@@ -32,7 +36,7 @@ AI Architect transforms vague ideas into production-ready prompt blueprints — 
 This is a Prompt Engineering IDE.
 
 ## Glance Tables
-> Feature overview table
+### Feature overview table
 
 | Feature | Description | Status |
 |-------|------------|--------|
@@ -45,7 +49,7 @@ This is a Prompt Engineering IDE.
 | XML-Structured Prompts | High-precision prompt boundaries | ✅ Implemented |
 | Offline Execution | No API, no internet dependency | ✅ Yes |
 
-> AI Personas table
+### AI Personas table
 
 | Persona | Best Used For |
 |-------|--------------|
@@ -58,7 +62,7 @@ This is a Prompt Engineering IDE.
 | Cybersecurity Analyst | Threat modeling, secure systems |
 | Academic Researcher | Papers, citations, structured analysis |
 
-> Prompt Configuration Table
+### Prompt Configuration Table
 
 | Parameter | Available Options |
 |--------|------------------|
@@ -67,7 +71,7 @@ This is a Prompt Engineering IDE.
 | Output Format | Markdown, Bullets, Code, JSON, CSV, Tables |
 | Reasoning Model | Chain-of-Thought, Few-Shot, Iterative |
 
-> Reasoning and Logic Engine table
+### Reasoning and Logic Engine table
 
 | Logic Model | Description | Benefit |
 |-----------|------------|---------|
@@ -75,7 +79,7 @@ This is a Prompt Engineering IDE.
 | Few-Shot Examples | Demonstrates expected output | Improves alignment |
 | Iterative Review | Self-checks output quality | Minimizes hallucinations |
 
-> Comparison Table
+### Comparison Table
 
 | Feature | AI Architect | Typical Prompt Tool |
 |------|-------------|---------------------|
@@ -85,7 +89,7 @@ This is a Prompt Engineering IDE.
 | Persona Control | Yes | Partial |
 | Professional UI | Desktop-grade | Web forms |
 
-> Use Cases scenario Table.
+### Use Cases scenario Table.
 
 | User Type | Use Case |
 |---------|----------|
@@ -97,42 +101,47 @@ This is a Prompt Engineering IDE.
 
 ## 🚀 Key Features
 Category	Capability
-> 🎭 Personas
+### 🎭 Personas
 
-1.Software Engineer
+>Software Engineer
 
-2.Data Scientist 
+>Data Scientist 
 
-3.CEO
+>CEO
 
-4.Legal Expert UX Designer
+>Legal Expert UX Designer
 
-5.Cybersecurity Analyst & more
+>Cybersecurity Analyst & more
 
-> 🧠 Reasoning Models
-1.Chain-of-Thought
+### 🧠 Reasoning Models
 
-2.Few-Shot Examples
+>Chain-of-Thought
 
-3.Iterative Self-Correction
+>Few-Shot Examples
 
-> 🎯 Precision Controlt
-1.Tone
+>Iterative Self-Correction
 
-2.Complexity
+### 🎯 Precision Control
 
-3.Output Format
+>Tone
 
->📐 Structure
-1.XML-tagged sections for LLM reliability
+>Complexity
 
->🖥️ Interface
-1.Modern Tkinter UI (Dark output console style)
+>Output Format
 
->📋 Output
-1.Copy-ready prompt blueprints
+### 📐 Structure
 
-2.⚙️ Offline ,No API keys, no internet required
+>XML-tagged sections for LLM reliability
+
+### 🖥️ Interface
+
+>Modern Tkinter UI (Dark output console style)
+
+### 📋 Output
+
+>Copy-ready prompt blueprints
+
+>⚙️ Offline ,No API keys, no internet required
 
 ## 🧩 Prompt Architecture (CO-STAR Inspired)
 SYSTEM IDENTITY
@@ -184,28 +193,27 @@ No virtual environment required.
 
 ## 🧪 Example Output (Snippet)
 
-### SYSTEM IDENTITY
+###SYSTEM IDENTITY
 You are acting as a Senior Data Scientist.
 Your response complexity must be Advanced.
 
-### CONTEXT
+###CONTEXT
 <context>
 You are designing an ML pipeline for healthcare data.
 </context>
 
-### OBJECTIVE
+###OBJECTIVE
 <task>
 Design a scalable feature engineering workflow.
 </task>
 
-### BEGIN RESPONSE
+###BEGIN RESPONSE
 
-🛠️ Built With
-Component	Technology
-Language	Python
-UI Framework	Tkinter (ttk themed)
-Design Pattern	MVC-like separation
-Prompt Design	CO-STAR + XML tagging
+## 🛠️ Built With
+Language - Python
+UI Framework - Tkinter (ttk themed)
+Design Pattern - MVC-like separation
+Prompt Design - CO-STAR + XML tagging
 
 ## 🤝 Contributing
 
