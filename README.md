@@ -1,18 +1,18 @@
 <img width="1024" height="1024" alt="ChatGPT Image Jan 4, 2026, 10_09_51 PM" src="https://github.com/user-attachments/assets/8f4eb656-0819-476f-8ab2-4bc6762dae7a" />
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)]
-[![Tkinter](https://img.shields.io/badge/UI-Tkinter-green)]
-[![Desktop App](https://img.shields.io/badge/App-Desktop-lightgrey)]
-[![License](https://img.shields.io/badge/License-MIT-purple)]
-[![Status](https://img.shields.io/badge/Status-Active%20Development-orange)]
-[![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-ff69b4)]
-[![CO-STAR](https://img.shields.io/badge/Prompt%20Model-CO--STAR-orange)]
-[![Chain of Thought](https://img.shields.io/badge/Reasoning-Chain%20of%20Thought-red)]
-[![LLM Compatible](https://img.shields.io/badge/LLM-Compatible-blueviolet)]
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)]
-[![Open Source](https://img.shields.io/badge/Open-Source-Informational)]
-[![Maintainability](https://img.shields.io/badge/Maintainable-Yes-success)]
-[![Code Style](https://img.shields.io/badge/Code%20Style-PEP8-blue)]
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)]
+![Tkinter](https://img.shields.io/badge/UI-Tkinter-green)
+![Desktop App](https://img.shields.io/badge/App-Desktop-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-purple)
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange)]
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-ff69b4)
+![CO-STAR](https://img.shields.io/badge/Prompt%20Model-CO--STAR-orange)
+![Chain of Thought](https://img.shields.io/badge/Reasoning-Chain%20of%20Thought-red)
+![LLM Compatible](https://img.shields.io/badge/LLM-Compatible-blueviolet)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+![Open Source](https://img.shields.io/badge/Open-Source-Informational)
+![Maintainability](https://img.shields.io/badge/Maintainable-Yes-success)
+![Code Style](https://img.shields.io/badge/Code%20Style-PEP8-blue)
 
 ## ✨ Why AI Architect?
 
@@ -147,14 +147,15 @@ Python	3.9+
 Tkinter	Bundled with Python
 OS	Windows / Linux / macOS
 Run Locally
-git clone https://github.com/yourusername/ai-architect.git
-cd ai-architect
-python ai_architect.py
+git clone https://github.com/LegedsDaD/AI-Architect.git
+cd AI-Architect
+python prompt_generator.py
 
 
 No virtual environment required.
 
-🧪 Example Output (Snippet)
+## 🧪 Example Output (Snippet)
+
 ### SYSTEM IDENTITY
 You are acting as a Senior Data Scientist.
 Your response complexity must be Advanced.
