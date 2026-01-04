@@ -1,10 +1,10 @@
 <img width="1024" height="1024" alt="ChatGPT Image Jan 4, 2026, 10_09_51 PM" src="https://github.com/user-attachments/assets/8f4eb656-0819-476f-8ab2-4bc6762dae7a" />
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)]
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/UI-Tkinter-green)
 ![Desktop App](https://img.shields.io/badge/App-Desktop-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-purple)
-![Status](https://img.shields.io/badge/Status-Active%20Development-orange)]
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-ff69b4)
 ![CO-STAR](https://img.shields.io/badge/Prompt%20Model-CO--STAR-orange)
 ![Chain of Thought](https://img.shields.io/badge/Reasoning-Chain%20of%20Thought-red)
